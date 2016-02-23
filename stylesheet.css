@@ -1,0 +1,31 @@
+<style>
+	h4{color:white}
+	h3{color:magenta; text-align:center;}
+	p{color:indigo; max-width:1000px; font-size:14pt}
+	body{background-color:lightgrey; }
+	h2{color:hotpink; text-align:center}
+	h1{color:indigo; font-family: 'Lobster', cursive;font-size:50px}
+	.center{
+		margin: auto;
+    	width: 42%;
+    	padding: 10px; 
+	}
+	h5{color:indigo;
+	text-align:center;
+	font-size:50px;
+	font-family: 'Lobster', cursive;
+	font-size:50px;
+	letter-spacing:4px}
+	.border{
+		border: 3px groove white;
+		width:1000px;
+		margin:auto
+	}
+	li{color:indigo; list-style-type:square; font-size:20pt}
+	a:link{color:magenta}
+	a:visited{color:magenta}
+	a:hover{font-size:24pt; color:indigo;}
+	p:first-letter{font-size:24pt}
+	
+
+</style>
